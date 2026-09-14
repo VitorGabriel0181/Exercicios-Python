@@ -1,2 +1,2 @@
-# Exercicios Python
-Exercicios Python feitos no pycharm
+# Python Exercises
+Python exercises done in PyCharm
